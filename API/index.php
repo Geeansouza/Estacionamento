@@ -21,6 +21,9 @@
      case 'REGISTROS':
           require_once('registrosApi/index.php');
      break;
+     case 'VALORES':
+          require_once('registrosApi/valores.php');
+     break;
    
  }
 

@@ -1,6 +1,6 @@
 'use strict'
 
-const url = 'http://localhost/leonardo/ProjetoEstacionamento/api/registros'
+const url = 'http://localhost/gean/Estacionamento/api/registros'
 
 const lerClientes = async () => {
     const response = await fetch(`${url}`)

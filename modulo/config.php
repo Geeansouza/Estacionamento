@@ -1,6 +1,6 @@
 <?php
 
-define('SRC', $_SERVER['DOCUMENT_ROOT'].'/leonardo/ProjetoEstacionamento/');
+define('SRC', $_SERVER['DOCUMENT_ROOT'].'/gean/Estacionamento/');
 
 function createJSON($arrayDados)
 {
